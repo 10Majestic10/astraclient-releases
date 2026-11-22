@@ -10,7 +10,7 @@ Astra Client is a modern, lightweight launcher for **Minecraft: Java Edition**, 
 - Manage multiple, fully isolated Minecraft instances (versions, mod loaders, settings)
 - Download game files directly from Mojang's official servers, verified by hash
 - Show your current skin as a 3D model
-- Update itself securely (signed releases)
+- Show news about Astra Client
 
 ## What it does not do
 
@@ -20,7 +20,7 @@ Astra Client is a modern, lightweight launcher for **Minecraft: Java Edition**, 
 
 ## This repository
 
-This repository only hosts signed release packages for the built-in auto-updater. Downloads will appear under **Releases** once the first version is published.
+This repository is the project page and hosts the downloads. New versions will appear under **Releases** once the first version is published; each release lists the SHA-256 checksum of its download.
 
 ## Platforms
 
