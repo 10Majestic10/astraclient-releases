@@ -1,0 +1,52 @@
+{
+  "version": 1,
+  "capes": [
+    {
+      "id": "astra",
+      "name": "Astra",
+      "description": "Das Cape von Astra Client: tiefes Violett mit dem Astra-Stern.",
+      "category": "Astra",
+      "texture": "textures/astra.png",
+      "access": "everyone",
+      "owners": []
+    },
+    {
+      "id": "nebula",
+      "name": "Nebula",
+      "description": "Ein Sternennebel in Violett und Türkis.",
+      "category": "Astra",
+      "texture": "textures/nebula.png",
+      "access": "everyone",
+      "owners": []
+    },
+    {
+      "id": "aurora",
+      "name": "Aurora",
+      "description": "Polarlicht-Wellen von Türkis zu Violett.",
+      "category": "Astra",
+      "texture": "textures/aurora.png",
+      "access": "everyone",
+      "owners": []
+    },
+    {
+      "id": "winter-2026",
+      "name": "Winter 2026",
+      "description": "Schneeflocken auf eisigem Blau. Nur diesen Winter.",
+      "category": "Saison",
+      "texture": "textures/winter-2026.png",
+      "access": "everyone",
+      "owners": []
+    },
+    {
+      "id": "gruender",
+      "name": "Gründer",
+      "description": "Für die Gründer von Astra Client. Schwarz mit Gold.",
+      "category": "Event",
+      "texture": "textures/gruender.png",
+      "access": "restricted",
+      "owners": [
+        "f4a01da72d494134b680bee4b983c25b"
+      ]
+    }
+  ]
+}
