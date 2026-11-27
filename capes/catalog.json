@@ -29,15 +29,6 @@
       "owners": []
     },
     {
-      "id": "winter-2026",
-      "name": "Winter 2026",
-      "description": "Schneeflocken auf eisigem Blau. Nur diesen Winter.",
-      "category": "Saison",
-      "texture": "textures/winter-2026.png",
-      "access": "everyone",
-      "owners": []
-    },
-    {
       "id": "gruender",
       "name": "Gründer",
       "description": "Für die Gründer von Astra Client. Schwarz mit Gold.",
