@@ -1,4 +1,14 @@
 {
   "version": 1,
-  "items": []
+  "items": [
+    {
+      "id": "2026-11-27-wilkommenbeiastraclient",
+      "title": "Willkommen bei Astra Client",
+      "tag": "Willkommen",
+      "publish_at": "2026-11-27T19:00:00.000Z",
+      "image": null,
+      "excerpt": "Willkommen bei Astra Client – deinem modernen und leistungsstarken Minecraft-Client. Wir freuen uns, dich dabei zu haben.",
+      "body": "Willkommen bei Astra Client – deinem modernen und leistungsstarken Minecraft-Client. Wir freuen uns, dich dabei zu haben.\n\n## Was erwartet dich?\n\n- Schneller und moderner Minecraft-Launcher\n- Verwaltung deiner Minecraft-Instanzen\n- Mods, Resourcepacks, Shader und Datapacks\n- Direkte Integration von Modrinth\n- Eine stetig wachsende Auswahl an Astra-Funktionen\n\n### Entwickelt für Minecraft\n\nAstra Client wird kontinuierlich weiterentwickelt. Unser Ziel ist ein schneller, sauberer und hochwertiger Client, der dir genau die Werkzeuge bietet, die du für dein Minecraft-Erlebnis brauchst.\n\nWeitere Informationen und zukünftige Updates findest du auf [unserer Seite](https://github.com/10Majestic10/astraclient-releases)."
+    }
+  ]
 }
