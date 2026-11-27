@@ -1,0 +1,14 @@
+{
+  "version": 1,
+  "items": [
+    {
+      "id": "2026-11-27-news-sind-da",
+      "title": "Neuigkeiten direkt im Client",
+      "tag": "Update",
+      "publish_at": "2026-11-27T11:00:00.000Z",
+      "image": null,
+      "excerpt": "Ab sofort erfährst du hier, was es Neues bei Astra Client gibt: Updates, neue Funktionen und Hinweise rund um deine Instanzen.",
+      "body": "Ab sofort erfährst du hier, was es Neues bei Astra Client gibt: Updates, neue Funktionen und Hinweise rund um deine Instanzen.\n\n## Was neu ist\n\n- News erscheinen automatisch rechts auf der Startseite\n- Offline siehst du die zuletzt geladenen News\n- Ein Klick auf eine News öffnet den ganzen Text\n\nViel Spaß beim Spielen!"
+    }
+  ]
+}
